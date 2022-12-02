@@ -7,5 +7,6 @@ public class Demo1 {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("new idea");
+        System.out.println("new idea pull");
     }
 }
