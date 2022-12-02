@@ -4,5 +4,6 @@ public class Demo1 {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("dev1");
+        System.out.println("push test");
     }
 }
